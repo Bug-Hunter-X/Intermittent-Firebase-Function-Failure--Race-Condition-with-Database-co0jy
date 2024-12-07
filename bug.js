@@ -1,0 +1,1 @@
+Unhandled promise rejection in Firebase functions caused by a race condition between the function's execution and a concurrent database operation.
